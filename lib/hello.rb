@@ -8,6 +8,8 @@ i=i+1
 end
 
 return arr
+else 
+  puts 
 end
 end
 
