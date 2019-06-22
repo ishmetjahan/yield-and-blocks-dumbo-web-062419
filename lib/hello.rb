@@ -9,7 +9,7 @@ end
 
 return arr
 else 
-  puts 
+  puts "Hey! No block was given!"
 end
 end
 
